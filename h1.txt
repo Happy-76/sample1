@@ -1,1 +1,2 @@
 i prefer living in colors
+starter of source code management
